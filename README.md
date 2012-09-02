@@ -17,6 +17,8 @@ Inspired by the book ["Deploying Rails"](http://pragprog.com/book/cbdepra/deploy
 Building the virtual machine is this easy:
 
     host $ git clone https://github.com/amaia/rails-starter-box.git
+    host $ git submodule init
+    host $ git submodule update
     host $ cd rails-starter-box
     host $ vagrant up
 
