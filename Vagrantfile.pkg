@@ -1,0 +1,4 @@
+Vagrant::Config.run do |config|
+  config.vm.host_name = 'rails-starter-box'
+  config.vm.forward_port 3000, 3000
+end
