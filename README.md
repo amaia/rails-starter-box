@@ -1,3 +1,4 @@
+[This project is currently not being maintained](https://github.com/amaia/rails-starter-box/issues/7)
 # A Virtual Machine for Ruby on Rails Application Development
 
 ## Introduction
